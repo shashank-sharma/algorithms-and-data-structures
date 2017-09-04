@@ -13,6 +13,9 @@ If in for loop the limit is decreasing by value one like j is depending on varia
 
 If we are making 2 calls in a recursion then there are high chances that you are making a tree and the answer might involve (2^(A+B))
 
+If loop keeps on doubling then it is log(n)
+
+nlogn < n^(3/2) < n^(logn) < 2^n
 
 ##Data Structures
 
@@ -51,3 +54,5 @@ B = [[1,2,3],[4,5,6]] so *(B+1) = B[1][0] and *(B+1) + 3 -> Go to array 1 and th
 Now *(*B+1) -> *(B[*][0]+1) -> *(B[*][1]) -> B[0][1]
 
 B[i][j] -> *(B[i]+j) -> *(*(B+i)+j)
+
+&a[i] = (a+i) and a[i] = *(a+i)
