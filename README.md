@@ -1,3 +1,5 @@
+# Algorithms and Data Structures
+
 1. Time Complexity Analysis & Space complexity (Notes)
 
 Space complexity is measured in terms of the largest amount of memory used during runtime.
@@ -17,9 +19,9 @@ If loop keeps on doubling then it is log(n)
 
 nlogn < n^(3/2) < n^(logn) < 2^n
 
-##Data Structures
+## Data Structures
 
-###Arrays
+### Arrays
 
 Pointers: Variables that store address of another variable.
 
