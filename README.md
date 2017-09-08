@@ -1,5 +1,7 @@
 # Algorithms and Data Structures
 
+This repository shows all the notes related all the important algorithms and data structures.
+
 1. Time Complexity Analysis & Space complexity (Notes)
 
 Space complexity is measured in terms of the largest amount of memory used during runtime.
