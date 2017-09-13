@@ -60,3 +60,9 @@ Now *(*B+1) -> *(B[*][0]+1) -> *(B[*][1]) -> B[0][1]
 B[i][j] -> *(B[i]+j) -> *(*(B+i)+j)
 
 &a[i] = (a+i) and a[i] = *(a+i)
+
+OPERATIONS:
+1. Sorting
+
+Insertion sort -> Dividing area into two subsets. First is sorted and another is unsorted
+
