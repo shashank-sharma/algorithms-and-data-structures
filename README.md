@@ -1,5 +1,8 @@
 # Algorithms and Data Structures
 
+Python code
+C++ code
+
 This repository shows all the notes related all the important algorithms and data structures.
 
 1. Time Complexity Analysis & Space complexity (Notes)
