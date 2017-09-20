@@ -1,7 +1,7 @@
 # Algorithms and Data Structures
 
-Python code
-C++ code
+- Python code (Later)
+- C++ code
 
 This repository shows all the notes related all the important algorithms and data structures.
 
@@ -68,4 +68,7 @@ OPERATIONS:
 1. Sorting
 
 Insertion sort -> Dividing area into two subsets. First is sorted and another is unsorted
-
+Bubble sort
+Selection sort
+Merge sort
+Quick sort
