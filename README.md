@@ -68,7 +68,7 @@ OPERATIONS:
 1. Sorting
 
 Insertion sort -> Dividing area into two subsets. First is sorted and another is unsorted
-Bubble sort
-Selection sort
-Merge sort
-Quick sort
+Bubble sort -> Swapping of values and repositioning the largest/smallest value
+Selection sort -> Select largest element and swap it
+Merge sort -> Divide and conquer
+Quick sort -> Take pivot and solve
